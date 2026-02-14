@@ -7,3 +7,4 @@ setter = "KI"
 print("HI")
 print(weather)
 print("HELLO EVERYONE")
+print("BYE")
