@@ -1,1 +1,1 @@
-Weather finder
+Weather finder app
