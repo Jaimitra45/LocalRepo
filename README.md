@@ -1,1 +1,3 @@
-Weather finder application
+Weather finder app
+Done by human
+
